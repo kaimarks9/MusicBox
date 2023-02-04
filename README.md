@@ -1,4 +1,5 @@
-![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
+![Repo Banner](https://github.com/kaimarks9/MusicBox/blob/main/assets/MUSIC%20BOX.png?raw=true)
+
 
 # MusicBox
 
@@ -85,7 +86,7 @@ Check it yourself :)
 ## License
 
 ```
-Copyright © 2021 Ankit Sangwan
+Copyright © 2023 Kai Marks
 
 MusicBox is a free software licensed under GPL v3.0
 It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
@@ -96,6 +97,7 @@ without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
 Being Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell
 a closed source copy of the same.
 Read the following carefully:
+
 1. Any copy of a software under GPL must be under same license. So you can't upload the app on a closed source
   app repository like PlayStore/AppStore without distributing the source code.
 2. You can't sell any copied/modified version of the app under any "non-free" license.
